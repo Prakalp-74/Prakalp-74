@@ -10,13 +10,13 @@
   <br><br>
   
   <!-- Social Badges Go Here -->
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:prakalpkatla@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/prakalpkatla/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Prakalp-74">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
