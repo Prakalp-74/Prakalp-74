@@ -9,13 +9,13 @@ Python · SQL · Machine Learning · Power BI · IoT
 
 <br><br>
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:prakalpkatla@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://www.linkedin.com/in/prakalpkatla/">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://github.com/your-username">
+<a href="https://github.com/Prakalp-74">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
@@ -23,7 +23,7 @@ Python · SQL · Machine Learning · Power BI · IoT
 
 </div># Hi there, I'm Prakalp Katla 👋
 
-*Data Analytics & AI Engineer* pursuing a B.E. in *Artificial Intelligence & Data Science*. Passionate about building data applications, predictive models, and IoT solutions.
+*Data Science & AI Engineer* pursuing a B.E. in *Artificial Intelligence & Data Science*. Passionate about building data applications, predictive models, and IoT solutions.
 
 ## About Me
 
