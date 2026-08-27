@@ -1,4 +1,27 @@
 <div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b213f&height=120&text=Prakalp%20Katla&fontSize=45&fontColor=ffffff" alt="Prakalp Katla">
+  
+  <br><br>
+  
+  **Data Analytics & AI Engineer** <br>
+  Python · SQL · Machine Learning · Power BI · IoT
+  
+  <br><br>
+  
+  <!-- Social Badges Go Here -->
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+</div>
+<div align="center">
 
 <!-- Optional: Replace the <h1> with an <img src="link-to-your-banner.png"> if you make a custom banner image -->
 <h1>Prakalp Katla</h1>
