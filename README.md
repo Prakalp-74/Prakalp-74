@@ -5,20 +5,20 @@
   <br><br>
 
   <!-- Animated Typing Text -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=800&lines=Data+Analytics+%26+AI+Engineer;Python+·+SQL+·+Machine+Learning;Power+BI+·+IoT+·+Data+Science" alt="Typing Animation" />
-  </a>
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1000&amp;color=00FFFF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Data+Analytics+%26+AI+Engineer;Python+·+SQL+·+Machine+Learning;Power+BI+·+IoT+·+Data+Science" alt="Typing Animation" />
+</a>
   
   <br><br>
 
   <!-- Social Badges -->
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:prakalpkatla@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/prakalpkatla">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Prakalp-74">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
