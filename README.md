@@ -1,10 +1,3 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Profile Animation" width="100%" />
-</div>
-
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0b213f&height=120&text=Prakalp%20Katla&fontSize=45&fontColor=ffffff" alt="Prakalp Katla">
-  
   <br><br>
 
   <!-- Animated Typing Text -->
@@ -14,6 +7,14 @@
 </a>
   
   <br><br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Profile Animation" width="100%" />
+</div>
+
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0b213f&height=120&text=Prakalp%20Katla&fontSize=45&fontColor=ffffff" alt="Prakalp Katla">
+  
+
 
   <!-- Social Badges -->
 
