@@ -1,21 +1,10 @@
-  <br><br>
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0b213f&height=120&text=Prakalp%20Katla&fontSize=45&fontColor=ffffff" alt="Prakalp Katla">
 
-  <!-- Animated Typing Text -->
-  <div align="center">
- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1000&amp;color=00FFFF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Data+Science+%26+AI+Engineer;Python+·+SQL+·+Machine+Learning;Power+BI+·+IoT+·+Jupyternotebook" alt="Typing Animation" />
-</a>
-  
-  <br><br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Profile Animation" width="100%" />
 </div>
-
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0b213f&height=120&text=Prakalp%20Katla&fontSize=45&fontColor=ffffff" alt="Prakalp Katla">
   
-
-
   <!-- Social Badges -->
 
   <a href="mailto:prakalpkatla@gmail.com">
