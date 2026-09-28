@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0b213f&height=120&text=Prakalp%20Katla&fontSize=45&fontColor=ffffff" alt="Prakalp Katla">
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/55/e8/af/55e8af23ff4e1055efd3605624dceb66.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" />
 </div>
   
   <!-- Social Badges -->
