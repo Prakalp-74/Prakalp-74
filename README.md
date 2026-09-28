@@ -46,10 +46,11 @@
 
 ## Experience
 
-| *Role* | *Company / Organization* | *Period* | *Type* |
+| *Role* | *Company* | *Period* | *Type* |
 | ----- | ----- | ----- | ----- |
+| *Digital Marketing Executive* | SB Global PVT LTD | Jun 2026-Present | Full Time |
+| *Data Analyst Intern* | Technogrowth Software Solutions | Dec 2025-Jan 2026 | Internship |
 | *Data Analyst Trainee* | Deloitte Australia | Virtual | Simulation |
-| *Data Analyst Intern* | Technogrowth Software Solutions | 2026 | Internship |
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=prakalp-74&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=prakalp-74&theme=dark&hide_border=false)<br/>
