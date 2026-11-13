@@ -39,8 +39,8 @@
 | **Movie Recommendation System** | Content-based recommendation engine utilizing cosine similarity on the TMDB 5000 dataset. | Python, FastAPI, Streamlit | Highly Rated |
 | **Customer Churn Prediction** | Predictive classification model evaluating performance across multiple machine learning algorithms. | Python, Pandas, Scikit-learn | Active |
 | **E-commerce Sales Dashboard** | Dynamic reporting solution built utilizing complex data modeling and custom DAX measures. | Power BI, SQL | Completed |
-| **SMARTKRISHI** | Agricultural IoT system for monitoring grain storage environments and sending automated SMS alerts. | Sensors, C++ | 🏆 SIH Winner |
-| **IoT Smart Lock** | Secure, connected locking mechanism developed for a national-level hackathon. | IoT, Hardware | 🥈 1st Runner-up |
+| **SMARTKRISHI** | Agricultural IoT system for monitoring grain storage environments and sending automated SMS alerts. | Sensors, IoT | 🏆 SIH Winner |
+| **SPACEX2025** | Smart locking system developed for a national-level hackathon. | IoT, Hardware | 🥈 1st Runner-up |
 
 ## Experience
 
