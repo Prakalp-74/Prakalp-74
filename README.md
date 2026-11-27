@@ -32,15 +32,17 @@
 
 
 
-## Featured Projects
 
-| *Project* | *Description* | *Stack* | *Recognition* |
-| ----- | ----- | ----- | ----- |
-| **Movie Recommendation System** | Content-based recommendation engine utilizing cosine similarity on the TMDB 5000 dataset. | Python, FastAPI, Streamlit | Highly Rated |
-| **Customer Churn Prediction** | Predictive classification model evaluating performance across multiple machine learning algorithms. | Python, Pandas, Scikit-learn | Active |
-| **E-commerce Sales Dashboard** | Dynamic reporting solution built utilizing complex data modeling and custom DAX measures. | Power BI, SQL | Completed |
-| **SMARTKRISHI** | Agricultural IoT system for monitoring grain storage environments and sending automated SMS alerts. | Sensors, IoT | 🏆 SIH Winner |
-| **SPACEX2025** | Smart locking system developed for a national-level hackathon. | IoT, Hardware | 🥈 1st Runner-up |
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Recognition |
+|:---|:---|:---|:---:|
+| ⚡ **[PJM Energy Demand Forecasting](https://github.com/Prakalp-74/pjm-energy-demand-forecasting)** | Machine learning-based electricity demand forecasting using historical energy consumption data. | Python, Pandas, NumPy, Scikit-learn, Matplotlib | ✅ |
+| 📊 **[Zepto Data Analysis](https://github.com/Prakalp-74/zepto_sales_analysis_sql)** | Exploratory data analysis using SQL to uncover insights into product pricing, categories, inventory, and business trends. | SQL, MySQL | ✅ |
+| 🛒 **[E-commerce Sales Dashboard](https://github.com/Prakalp-74/Ecommerce-sales-dashboard)** | Interactive business intelligence dashboard featuring data modeling, sales analysis, and custom DAX measures. | Power BI, SQL, DAX | ✅ |
+| 🌱 **SMARTKRISHI** | IoT-based precision agriculture system for monitoring grain storage environments and sending automated SMS alerts. | IoT, Sensors, Hardware | 🏆 SIH Winner |
+| 🔐 **SPACE 2025 – Smart Lock** | IoT-based smart locking system developed for a national-level hackathon. | IoT, Hardware | 🥈 1st Runner-up |
 
 ## Experience
 
